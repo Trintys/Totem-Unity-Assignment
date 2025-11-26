@@ -49,21 +49,21 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaLeak: 0.6
-    - _AmbientTranslucency: 1
+    - _AmbientTranslucency: 0.24
     - _BlendBB: 1
     - _BlendBBDithering: 0
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 1
+    - _Smoothness: 0.282
     - _ThicknessRemap: 1
     - _WindPower: 1.5
     - _WindStrength: 0.16
     m_Colors:
-    - _HueVariation: {r: 0, g: 0.9, b: 0.8255172, a: 0.1}
+    - _HueVariation: {r: 0, g: 0.22012573, b: 0.20194143, a: 0.1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Translucency: {r: 1, g: 2, b: 0, a: 0}
+    - _Translucency: {r: 0.3, g: 0.3, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1250361139243167636
